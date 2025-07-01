@@ -32,10 +32,11 @@ alert("Let's get kbow each other! I'm " + name);
     * German - Beginner+ (A1+)
 
 ## Soft skills
-* communication and team work
-* problem-solving
-* adaptability
-* time management and self-organisation
+* Communication and team work
+* Problem-solving
+* Adaptability
+* Responsibility
+* Time management and self-organisation
 
 ## Education
 ### 2025-...
@@ -56,4 +57,15 @@ alert("Let's get kbow each other! I'm " + name);
 * _AI and neural networks structure and usage in language learning and processing_
 
 ## Work experience
-
+### 2023-...
+**Assistant in IT sales, Nove technologie a sluzby, s.r.o., Kosice, Slovakia**
+* _Managing database with customers_
+* _Preparing offers_
+* _Technical support - Windows and Microsoft software_
+* _receiving and issuing invoices_
+### 2019-2023
+**Programming tutor in Codologia programming school, Novosibirsk, Russia**
+* _Testing students' level and giving recommendations_
+* _Mentoring a student on his studies_
+* _Methodology matherials writing_
+* _Database and CRM managment_
