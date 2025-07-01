@@ -1,16 +1,13 @@
 # Sofia Odiiak
+![Sofia's photo](/image/photo.jpg "Sofia's photo")
 
 ## About me
+Junior FrontEnd Developer with background of participating in different projects, strong knowledge of HTML, CSS, Vue.js, JavaScript, JQuery etc. Also having some organisation and managing experience. 
 ```
 let name = 'Sofia';
 alert("Let's get kbow each other! I'm " + name);
 ```
-
-Junior FrontEnd Developer with background of participating in different projects, strong knowledge of HTML, CSS, Vue.js, JavaScript, JQuery etc. Also having some organisation and managing experience. 
 > Learning is the most important part of a human's life, so I'm always open to new training opportunities and courses.
-
-## Photo
-![Sofia's photo](/image/photo.jpg "Sofia's photo")
 
 ## Contact information
 * mobile: +421 914 164 645
