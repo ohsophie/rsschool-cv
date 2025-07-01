@@ -1,5 +1,5 @@
 # Sofia Odiiak
- [About me](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#about-me) | [Contact information](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#contact-information) | [Hard skills](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#hard-skills) | [Soft skills](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#soft-skills) | [Education](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#education) | [Work experience]  (https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#work-experience)
+ [About me](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#about-me) | [Contact information](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#contact-information) | [Hard skills](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#hard-skills) | [Soft skills](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#soft-skills) | [Education](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#education) | [Work experience](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#work-experience)  
 ![Sofia's photo](/image/photo.jpg "Sofia's photo")
 
 ## About me
