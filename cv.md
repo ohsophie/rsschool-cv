@@ -1,6 +1,6 @@
 # Sofia Odiiak
  [About me](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#about-me) | [Contact information](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#contact-information) | [Hard skills](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#hard-skills) | [Soft skills](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#soft-skills) | [Education](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#education) | [Work experience](https://github.com/ohsophie/rsschool-cv/blob/gh-pages/cv.md#work-experience)
-![Sofia's photo](/image/photo.jpg "Sofia's photo")
+  ![Sofia's photo](/image/photo.jpg "Sofia's photo")
 
 ## About me
 Junior FrontEnd Developer with background of participating in different projects, strong knowledge of HTML, CSS, Vue.js, JavaScript, JQuery etc. Also having some organisation and managing experience. 
@@ -70,3 +70,6 @@ alert("Let's get kbow each other! I'm " + name);
 * _Mentoring a student on his studies_
 * _Methodology matherials writing_
 * _Database and CRM managment_
+
+## My hobbies
+I love photography, travelling and creating content. You can see some of my works on [Instagram](https://www.instagram.com/sofia_shotss/).
