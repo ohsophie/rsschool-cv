@@ -10,7 +10,7 @@ alert("Let's get kbow each other! I'm " + name);
 > Learning is the most important part of a human's life, so I'm always open to new training opportunities and courses.
 
 ## Contact information
-* mobile: +421 914 164 645
+* mobile: +421 914 x64 xxx
 * e-mail: sofiaodiiak@gmail.com
 * country: Slovakia
 * citizenship: Russian Federation
