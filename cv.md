@@ -4,7 +4,7 @@
 Junior FrontEnd Developer with background of participating in different projects, strong knowledge of HTML, CSS, Vue.js, JavaScript and JQuery and manager and some organisation and managing experience.
 
 ## Photo
-![Sofia's photo.](/image/11.jpg =200x)
+![Sofia's photo](/image/photo.jpg "Sofia's photo")
 
 ## Contact information
 * mobile: +421 914 164 645
